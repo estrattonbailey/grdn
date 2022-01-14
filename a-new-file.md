@@ -1,1 +1,4 @@
+---
+title "Foo"
+--
 # New File!
