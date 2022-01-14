@@ -1,3 +1,8 @@
-# welcome to my garden
+---
+title: estrattonbailey
+description: my little internet grdn
+---
 
-Do you like it here?
+# welcome to the grdn
+
+🪴
