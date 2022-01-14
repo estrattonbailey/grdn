@@ -3,6 +3,6 @@ title: estrattonbailey
 description: my little internet grdn
 ---
 
-# welcome to the grdn
+# eric 🪴
 
-🪴
+welcome to my grdn
