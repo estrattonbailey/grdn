@@ -34,6 +34,13 @@ It was the age of busy widows' walks.
 The dead languages of love were still in use, but also much silence, much
 soundless screaming at the top of the lungs.
 
+<blockquote class="quoteback" darkmode="" data-title="The World Doesn't End" data-author="Charles Simic" cite="https://www.pulitzer.org/winners/charles-simic">
+It was the age of busy widows' walks. The dead languages of love were 
+still in use, but also much silence, much soundless screaming at the top
+ of the lungs.
+<footer>Charles Simic<cite> <a href="https://www.pulitzer.org/winners/charles-simic">https://www.pulitzer.org/winners/charles-simic</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
 * * *
 
 *The World Doesn't End* by Charles Simic
