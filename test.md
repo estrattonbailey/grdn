@@ -21,8 +21,8 @@ that could have been singing.
 - list item
 - list item
 - list item
-  - list item
-  - list item
+    - list item
+    - list item
 - list item
 
 The captain in the [daguerreotype](https://en.wikipedia.org/wiki/Daguerreotype)
@@ -33,8 +33,8 @@ that could have been singing.
 1. list item
 2. list item
 3. list item
-  1. list item
-  2. list item
+    1. list item
+    2. list item
 4. list item
 
 The captain in the [daguerreotype](https://en.wikipedia.org/wiki/Daguerreotype)
