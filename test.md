@@ -13,6 +13,13 @@ The parrot in the bamboo cage spoke several languages.
 
 ### The captain
 
+The parrot in the bamboo cage spoke several languages.
+
+<blockquote class="quoteback" darkmode="" data-title="The Garden of Forking Memes" data-author="Aaron Z Lewis" cite="https://aaronzlewis.com/blog/2020/07/07/the-garden-of-forking-memes/">
+Much like the townships of old, every internet community has its own “<em><a href="https://www.ribbonfarm.com/2019/08/16/multitemporality-1/" target="_blank" rel="noopener">subjective</a></em> time zone”.
+<footer>Aaron Z Lewis<cite> <a href="https://aaronzlewis.com/blog/2020/07/07/the-garden-of-forking-memes/">https://aaronzlewis.com/blog/2020/07/07/the-garden-of-forking-memes/</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
 The captain in the [daguerreotype](https://en.wikipedia.org/wiki/Daguerreotype)
 had his cheeks painted red. He brought a half-naked girl from the tropics whom
 they kept chained in the attic even after his death. At night she made sounds
