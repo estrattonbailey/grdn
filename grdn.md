@@ -1,7 +1,9 @@
 ---
-title: welcome to grdn
-description: we're glad you're here
-image: "https://user-images.githubusercontent.com/4732330/151386182-d0603f73-f1ea-43b1-a228-4acf3520b65f.png"
+{
+  "title": "welcome to the grdn",
+  "description": "we're glad you're here",
+  "image": "https://user-images.githubusercontent.com/4732330/151386182-d0603f73-f1ea-43b1-a228-4acf3520b65f.png"
+}
 ---
 
 # Welcome to grdn
