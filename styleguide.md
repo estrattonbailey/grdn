@@ -1,6 +1,8 @@
 ---
-title: grdn styleguide
-description: beeps and boops
+{
+ "title": "grdn styleguide",
+ "description": "beeps and boops"
+}
 ---
 
 # A century of gathering clouds.
