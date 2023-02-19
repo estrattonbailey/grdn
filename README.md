@@ -1,13 +1,18 @@
 ---
-title: estrattonbailey
-description: my little internet grdn
+title: estrattonbailey on grdn
+description: My little internet grdn
 ---
 
-# eric 🪴
+# Eric
 
-welcome to my grdn
+Welcome to my grdn 🪴
 
-find me elsewhere
-- [www](https://estrattonbailey.com)
+Find me elsewhere:
+- [www](https://esb.lol)
 - [twitter](https://twitter.com/estrattonbailey)
 - [github](https://github.com/estrattonbailey)
+
+## Notes and ponderings
+
+- [Mutton Dash — Feb 19, 2023](/estrattonbailey/mutton-dash-20230219)
+- [Writing Toy-Like Code](/estrattonbailey/writing-toy-like-code)
